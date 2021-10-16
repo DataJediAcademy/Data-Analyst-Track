@@ -36,5 +36,5 @@ The management is particularly very interested in generating sales reports to un
 - Generate table reports in CSV which will provide the management team with insights required for items 1-5 in the brief. Complete this in SQL. Beyond generating reports in tables, provide a short write up on your insights from the data generated.e.g. These are top 10 customers by revenue, the customers accounted for >60% of our revenue.
 - Create stunning PowerBI visualisations which will guide the management team in making optimal decisions for items 1-4 in the brief. Complete this in PowerBI
 - Write commentary advising management on the optimal decisions based on your dashboards/reports. Complete the commentary in a 1-2 page Powerpoint document.
-- Send your submissions to submissions@datajedi.io . You will be presenting your dashboards and commentary.
+- Send your submissions to https://forms.gle/t9CzrqoMkXS89FTVA . You will be presenting your dashboards and commentary.
 
